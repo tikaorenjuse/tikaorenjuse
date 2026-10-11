@@ -2,7 +2,7 @@
 <p align="center">
   <img src="liliy-bg.png" width="400" alt="Bunga Lili">
 </p>
-<h1 align="center">Hi 👋, I'm Tika🌷🫧</h1>
+<h1 align="center">Hii Prend 🙋🏻‍♀️, I'm Tika🌷🫧</h1>
 <h3 align="center">I'm an IT student🌷</h3>
 
 - 📫 How to reach me **tikaorenjuse@gmail.com**
